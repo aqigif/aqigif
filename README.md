@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-i am known as software fullstack developer, or js developer, or react universe developer, hahah wtf intro just let do collab to make the world better
+i am known as software fullstack developer, or js developer, or react universe developer, hahah wtf intro just let's do a collaboration to make the world better
 
 
 - 🔭 I’m currently working on metaverse world research team
