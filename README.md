@@ -8,4 +8,4 @@ i am known as software fullstack developer, or js developer, or react universe d
 - 👯 I’m looking to collaborate on "keren ya keren aja" projects, just let's talk about it and make me interest by your project 
 - 💬 Ask me about frontend stuff, especially react universe
 - 📫 How to reach me: just dm me on twitter or email me at aqigif@gmail.com
-- ⚡ Fun fact: i can't eat spicy for weak reason hahah
+- ⚡ Fun fact: i can't eat spicy LOL
