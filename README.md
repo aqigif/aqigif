@@ -11,4 +11,4 @@ i am known as software fullstack developer, or js developer, or react universe d
 - ⚡ Fun fact: i can't eat spicy LOL
 
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/b2a0b896ef724e68a2364c727e8e9e6e.png?r=20z" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/aqigif"><img src="https://api.daily.dev/devcards/8b1594d5c4594962a10054e80e958df8.png?r=7c5" width="400" alt="Aqil G's Dev Card"/></a>
