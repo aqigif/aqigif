@@ -9,3 +9,6 @@ i am known as software fullstack developer, or js developer, or react universe d
 - 💬 Ask me about frontend stuff, especially react universe
 - 📫 How to reach me: just dm me on twitter or email me at aqigif@gmail.com
 - ⚡ Fun fact: i can't eat spicy LOL
+
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/b2a0b896ef724e68a2364c727e8e9e6e.png?r=20z" width="400" alt="Chris Bongers's Dev Card"/></a>
