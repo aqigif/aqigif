@@ -6,6 +6,3 @@ i am known as software fullstack developer, or js developer, or react universe d
 - 💬 Ask me about frontend stuff, especially react universe
 - 📫 How to reach me: just dm me on twitter or email me at aqigif@gmail.com
 - ⚡ Fun fact: i can't eat spicy LOL
-
-
-<a href="https://app.daily.dev/aqigif"><img src="https://api.daily.dev/devcards/8b1594d5c4594962a10054e80e958df8.png?r=7c5" width="400" alt="Aqil G's Dev Card"/></a>
