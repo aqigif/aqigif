@@ -1,4 +1,6 @@
-**Aqil G is App Developer based in Jakarta, Indonesia with passion for building beautiful, useful and performant application. He has a knack for all things launching products, from planning and designing all the way to solving problems with code. Currently, he is working hybrid for [Cosmart](https://www.cosmart.com) in Indonesia and remotely for [Corom Music Entertainment](https://www.corom-music.com) in Japan.**
+## Summary
+
+Aqil G is App Developer based in Jakarta, Indonesia with passion for building beautiful, useful and performant application. He has a knack for all things launching products, from planning and designing all the way to solving problems with code. Currently, he is working hybrid for [Cosmart](https://www.cosmart.com) in Indonesia and remotely for [Corom Music Entertainment](https://www.corom-music.com) in Japan.
 
 - **5 years of software development experience**
 - **Mobile Development**
