@@ -1,1 +1,1 @@
-Aqil G is App Developer based in Jakarta, Indonesia with 5+ years experience, passion for building beautiful, useful, and performant applications. He has a knack for all things launching products, from planning and designing all the way to solving problems with code.
+Aqil G is App Developer based in Jakarta, Indonesia with 6+ years experience.
